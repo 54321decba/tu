@@ -1,0 +1,18 @@
+<div region="center">
+    <div class="easyui-tabs" fit="true" border="false" id="tabs">
+        <div title="Ê×Ò³" data-options="iconCls:'icon-home'">
+            <div align="center" style="padding-top: 100px">
+                <font color="grey" size="10">ssm demo</font>
+                <!-- dogÏÔÊ¾div -->
+                <div id="world"></div>
+                <script type="text/javascript"
+                        src="${pageContext.request.contextPath}/js/plugin-dog/js/three.min.js"></script>
+                <script type="text/javascript"
+                        src="${pageContext.request.contextPath}/js/plugin-dog/js/OrbitControls.js"></script>
+                <script type="text/javascript"
+                        src="${pageContext.request.contextPath}/js/plugin-dog/js/index.js"></script>
+            </div>
+            </div>
+        </div>
+    </div>
+</div>
