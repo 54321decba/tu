@@ -1,0 +1,3 @@
+2019-03-25 14:55:46,815 [restartedMain] INFO  com.pipi.Main 48 - Starting Main on abcde with PID 11980 (F:\201903\pipi\target\classes started by Administrator in F:\201903\pipi)
+2019-03-25 14:55:46,822 [restartedMain] INFO  com.pipi.Main 597 - The following profiles are active: dev
+2019-03-25 14:55:53,114 [restartedMain] INFO  com.pipi.Main 57 - Started Main in 7.249 seconds (JVM running for 8.914)
