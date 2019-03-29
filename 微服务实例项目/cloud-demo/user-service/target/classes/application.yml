@@ -1,0 +1,9 @@
+server:
+  port: 8081
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/springcloud
+    username: root
+    password: 135246
+mybatis:
+  type-aliases-package: com.itcast.user.pojo
